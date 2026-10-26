@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "application": "QUANTUM LAB",
+  "active_experiment": "Atomic orbitals",
+  "active_parameters": {
+    "orbital": "6d_xy",
+    "scale_bohr": 6
+  },
+  "records": [
+    {
+      "experiment": "Atomic orbitals",
+      "parameters": {
+        "orbital": "6d_xy",
+        "scale_bohr": 6
+      },
+      "created_utc": "2026-10-23T08:41:58+00:00",
+      "summary": "Orbital 6d_xy: principal quantum number n=6, angular-momentum quantum number l=2. This is a representative 2D cross-section of an idealized hydrogen-like probability density, normalized to a displayed maximum of 1. The view extends to ±6 Bohr radii. It is not a complete 3D orbital or an electron trajectory.",
+      "metrics": {
+        "minimum": 4.3146440468577954e-08,
+        "maximum": 1.0,
+        "mean": 0.4029811619263147
+      },
+      "points": 90000
+    }
+  ],
+  "integrity_sha256": "931bbac413a863f084c6bee107d1b73c4e46c0a6c6b7f1767d23fd2469388574"
+}
